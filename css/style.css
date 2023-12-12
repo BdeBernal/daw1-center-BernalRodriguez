@@ -1,0 +1,619 @@
+@media only screen and (min-width: 1199px){
+    
+body {
+    height: 100%;
+}
+
+* {
+    font-family: 'Barlow', sans-serif;
+}
+
+#logo {
+    height: 60px;
+
+}
+
+header{
+    background-color: #F1C50E;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    color:#FFF;
+    padding: 0 0 0 1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+section > h4 {
+    color:#FFF;
+    padding-bottom: 1em;
+}
+
+nav > a{
+    text-decoration: none;
+    color: #FFF;
+    padding: 0 2em 0 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav > a:hover {
+    color: #000;
+}
+
+#button:hover {
+    background-color: #F0707E;
+}
+
+section > img {
+    max-width: 75px;
+    justify-content: center;
+    align-content: center;
+    padding-bottom: 1em;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: #F1C50E;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    align-items: center;
+    padding: 1em 0 1em 0;
+}
+
+input {
+    margin: 2em 0 3em 0;
+    padding: 14px;
+    font-size: 12px;
+    border: 0px #F0262F solid;
+    border-radius: 5px;
+    background-color: #F0262F;
+    color: #FFF
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    max-width: 250px;
+    height: 350px;
+    justify-content: center;
+    margin: 3em 0 0 0;
+    align-items: center;
+}
+
+#learning {
+    background-color: #F0262F;
+}
+
+#guarantee {
+    background-color: #199DDD;
+}
+
+#resources {
+    background-color: #3EC5D9;
+}
+
+#library {
+    background-color: #F1C50E;
+}
+
+section > img {
+    border-radius: 5px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+}
+
+@media only screen and (max-width: 1199px){
+    
+    body {
+        height: 100%;
+    }
+    
+    * {
+        font-family: 'Barlow', sans-serif;
+    }
+    
+    #logo {
+        height: 60px;
+    
+    }
+    
+    header{
+        background-color: #3EC5D9;
+        color: #FFF;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    p {
+        color:#FFF;
+        padding: 0 0 0 1em;
+    }
+    
+    nav {
+        display: flex;
+        align-items: center;
+    }
+    
+    section > h4 {
+        color:#FFF;
+        padding-bottom: 1em;
+    }
+    
+    nav > a{
+        text-decoration: none;
+        color: #FFF;
+        padding: 0 2em 0 0;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    nav > a:hover {
+        color: #000;
+    }
+    
+    #button:hover {
+        background-color: #F0707E;
+    }
+    
+    section > img {
+        max-width: 75px;
+        justify-content: center;
+        align-content: center;
+        padding-bottom: 1em;
+    }
+    
+    main{
+        display: flex;
+        justify-content: center;
+    }
+    
+    footer {
+        background-color: #3EC5D9;
+        display: flex;
+        flex-direction: column;
+        font-size: 14px;
+        align-items: center;
+        padding: 1em 0 1em 0;
+    }
+    
+    input {
+        margin: 2em 0 3em 0;
+        padding: 14px;
+        font-size: 12px;
+        border: 0px #F0262F solid;
+        border-radius: 5px;
+        background-color: #F0262F;
+        color: #FFF
+    }
+    
+    section {
+        display: flex;
+        flex-direction: column;
+        max-width: 250px;
+        height: 350px;
+        justify-content: center;
+        margin: 3em 0 0 0;
+        align-items: center;
+    }
+    
+    #learning {
+        background-color: #F0262F;
+    }
+    
+    #guarantee {
+        background-color: #199DDD;
+    }
+    
+    #resources {
+        background-color: #3EC5D9;
+    }
+    
+    #library {
+        background-color: #F1C50E;
+    }
+    
+    section > img {
+        border-radius: 5px;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+    }
+    
+    }
+
+    @media only screen and (max-width: 1199px){
+    
+    body {
+        height: 100%;
+    }
+    
+    * {
+        font-family: 'Barlow', sans-serif;
+    }
+    
+    #logo {
+        height: 60px;
+    
+    }
+    
+    header{
+        background-color: #3EC5D9;
+        color: #FFF;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    p {
+        color:#FFF;
+        padding: 0 0 0 1em;
+    }
+    
+    nav {
+        display: flex;
+        align-items: center;
+    }
+    
+    section > h4 {
+        color:#FFF;
+        padding-bottom: 1em;
+    }
+    
+    nav > a{
+        text-decoration: none;
+        color: #FFF;
+        padding: 0 2em 0 0;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    nav > a:hover {
+        color: #000;
+    }
+    
+    #button:hover {
+        background-color: #F0707E;
+    }
+    
+    section > img {
+        max-width: 75px;
+        justify-content: center;
+        align-content: center;
+        padding-bottom: 1em;
+    }
+    
+    main{
+        display: flex;
+        justify-content: center;
+    }
+    
+    footer {
+        background-color: #3EC5D9;
+        display: flex;
+        flex-direction: column;
+        font-size: 14px;
+        align-items: center;
+        padding: 1em 0 1em 0;
+    }
+    
+    input {
+        margin: 2em 0 3em 0;
+        padding: 14px;
+        font-size: 12px;
+        border: 0px #F0262F solid;
+        border-radius: 5px;
+        background-color: #F0262F;
+        color: #FFF
+    }
+    
+    section {
+        display: flex;
+        flex-direction: column;
+        max-width: 250px;
+        height: 350px;
+        justify-content: center;
+        margin: 3em 0 0 0;
+        align-items: center;
+    }
+    
+    #learning {
+        background-color: #F0262F;
+    }
+    
+    #guarantee {
+        background-color: #199DDD;
+    }
+    
+    #resources {
+        background-color: #3EC5D9;
+    }
+    
+    #library {
+        background-color: #F1C50E;
+    }
+    
+    section > img {
+        border-radius: 5px;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+    }
+    
+}
+
+@media only screen and (max-width: 991px){
+    
+    body {
+        height: 100%;
+    }
+    
+    * {
+        font-family: 'Barlow', sans-serif;
+    }
+    
+    #logo {
+        height: 60px;
+    
+    }
+    
+    header{
+        background-color: #199DDD;
+        color: #FFF;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    p {
+        color:#FFF;
+        padding: 0 0 0 1em;
+    }
+    
+    nav {
+        display: flex;
+        align-items: center;
+    }
+    
+    section > h4 {
+        color:#FFF;
+        padding-bottom: 1em;
+    }
+    
+    nav > a{
+        text-decoration: none;
+        color: #FFF;
+        padding: 0 2em 0 0;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    nav > a:hover {
+        color: #000;
+    }
+    
+    #button:hover {
+        background-color: #F0707E;
+    }
+    
+    section > img {
+        max-width: 75px;
+        justify-content: center;
+        align-content: center;
+        padding-bottom: 1em;
+    }
+    
+    main{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    footer {
+        background-color: #199DDD;
+        display: flex;
+        flex-direction: column;
+        font-size: 14px;
+        align-items: center;
+        padding: 1em 0 1em 0;
+    }
+    
+    input {
+        margin: 2em 0 3em 0;
+        padding: 14px;
+        font-size: 12px;
+        border: 0px #F0262F solid;
+        border-radius: 5px;
+        background-color: #F0262F;
+        color: #FFF
+    }
+    
+    section {
+        display: flex;
+        flex-direction: column;
+        max-width: 250px;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #learning {
+        background-color: #F0262F;
+    }
+    
+    #guarantee {
+        background-color: #199DDD;
+    }
+    
+    #resources {
+        background-color: #3EC5D9;
+        margin-top: 0;
+    }
+    
+    #library {
+        background-color: #F1C50E;
+        margin-top: 0;
+    }
+    
+    section > img {
+        border-radius: 5px;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+    }
+    
+}
+
+@media only screen and (max-width: 577px){
+    
+    body {
+        height: 100%;
+    }
+    
+    * {
+        font-family: 'Barlow', sans-serif;
+    }
+    
+    #logo {
+        height: 60px;
+    
+    }
+    
+    header{
+        background-color: #F0262F;
+        color: #FFF;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    p {
+        color:#FFF;
+        padding: 0 0 0 1em;
+    }
+    
+    nav {
+        display: flex;
+        align-items: center;
+    }
+    
+    section > h4 {
+        color:#FFF;
+        padding-bottom: 1em;
+    }
+    
+    nav > a{
+        text-decoration: none;
+        color: #FFF;
+        padding: 0 2em 0 0;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    nav > a:hover {
+        color: #000;
+    }
+    
+    #button:hover {
+        background-color: #F0707E;
+    }
+    
+    section > img {
+        max-width: 75px;
+        justify-content: center;
+        align-content: center;
+        padding-bottom: 1em;
+    }
+    
+    main{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    footer {
+        background-color: #F0262F;
+        display: flex;
+        flex-direction: column;
+        font-size: 14px;
+        align-items: center;
+        padding: 1em 0 1em 0;
+    }
+    
+    input {
+        margin: 2em 0 3em 0;
+        padding: 14px;
+        font-size: 12px;
+        border: 0px #F0262F solid;
+        border-radius: 5px;
+        background-color: #F0262F;
+        color: #FFF
+    }
+    
+    section {
+        display: flex;
+        flex-direction: column;
+        max-width: 250px;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #learning {
+        background-color: #F0262F;
+    }
+    
+    #guarantee {
+        background-color: #199DDD;
+        margin-top: 0;
+    }
+    
+    #resources {
+        background-color: #3EC5D9;
+        margin-top: 0;
+    }
+    
+    #library {
+        background-color: #F1C50E;
+        margin-top: 0;
+    }
+    
+    section > img {
+        border-radius: 5px;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+    }
+    
+}

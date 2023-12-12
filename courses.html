@@ -1,0 +1,83 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./css/stylecourses.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<header>
+
+    <img src="./img/Assets/logo.png" alt="logo" id="logo">
+
+    <h2>Center</h2>
+
+    <nav>
+        <a href="./index.html">Home</a>
+        <a href="./about.html">About us</a>
+        <a href="./courses.html">Courses</a>
+    </nav>
+
+</header>
+
+<body>
+
+    <h3>Students Survey</h3>
+
+    <form action="" method="post">
+
+        <label for="name">Student name</label><br>
+        <input type="text" name="name" id="name">
+
+        <br>
+
+        <label for="date">Date</label><br>
+        <input type="date" name="date" id="date">
+        <br>
+
+        <label for="selection">How long have you been a student here?</label><br>
+        <select name="selection" id="selection">
+            <option value="lessthan1year">Less than 1 year</option>
+            <option value="morethan1year">More than 1 year</option>
+        </select>
+
+        <h3>Instructions</h3>
+
+        <table border="1">
+
+            <tr>
+                <th></th>
+                <th>Disagree</th>
+                <th>Neutral</th>
+                <th>Agree</th>
+            </tr>
+
+            <tr>
+                <td>The instructors were qualified to teach these classes</td>
+                <td><input type="radio" name="qualifiedInstructors" id="qualifiedInstructors" value="Disagree"></td>
+                <td><input type="radio" name="qualifiedInstructors" id="qualifiedInstructors" value="Neutral"></td>
+                <td><input type="radio" name="qualifiedInstructors" id="qualifiedInstructors" value="Agree"></td>
+            </tr>
+
+            <tr>
+                <td>The instructors demonstrated enthusiasm for the subject matter</td>
+                <td><input type="radio" name="enthusiasmInstructors" id="enthusiasmInstructors" value="Disagree"></td>
+                <td><input type="radio" name="enthusiasmInstructors" id="enthusiasmInstructors" value="Neutral"></td>
+                <td><input type="radio" name="enthusiasmInstructors" id="enthusiasmInstructors" value="Agree"></td>
+            </tr>
+
+        </table>
+
+        <input type="submit" value="SUBMIT">
+
+    </form>
+</body>
+
+<footer>
+    <a href="https://www.freepik.es/" target="_blank"><p>Images by flatart on Freepik</p></a>
+
+<p><span>&#169</span> Bernal Rodríguez Carballo</p>
+</footer>
+
+</html>

@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+}
+
+* {
+    font-family: 'Barlow', sans-serif;
+}
+
+#logo {
+    height: 60px;
+
+}
+
+header{
+    background-color: #F1C50E;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    color:#FFF;
+    padding: 0 0 0 1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav > a{
+    text-decoration: none;
+    color: #FFF;
+    padding: 0 2em 0 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav > a:hover {
+    color: #000;
+}
+
+
+footer {
+    background-color: #F1C50E;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    align-items: center;
+    padding: 1em 0 1em 0;
+}
